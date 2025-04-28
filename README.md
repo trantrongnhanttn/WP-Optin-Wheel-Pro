@@ -1,2 +1,2 @@
 # WP-Optin-Wheel-Pro
-Thêm trường và kiểm tra dữ liệu tồn tại
+Mục tiêu: Ngăn người dùng quay vòng quay nếu số CMND (number_1) của họ đã được ghi lại trong cơ sở dữ liệu cho vòng quay cụ thể đó.
